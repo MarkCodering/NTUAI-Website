@@ -119,7 +119,7 @@ export const Features3 = () => {
                </Card>
             </Flex>
          </Box>
-
+         {/* @ts-ignore */}
          <Divider
             css={{position: 'absolute', inset: '0p', left: '0', mt: '$5'}}
          />

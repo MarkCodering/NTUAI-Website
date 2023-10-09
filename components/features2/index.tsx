@@ -105,7 +105,7 @@ export const Features2 = () => {
                <FeatureIcon />
             </Flex>
          </Flex>
-
+         {/* @ts-ignore */}
          <Divider
             css={{position: 'absolute', inset: '0p', left: '0', mt: '$5'}}
          />

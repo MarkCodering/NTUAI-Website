@@ -179,6 +179,7 @@ export const Footer = () => {
                   },
                }}
             >
+               {/* @ts-ignore */}
                <Divider
                   css={{
                      mt: '$14',
